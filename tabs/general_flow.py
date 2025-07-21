@@ -38,6 +38,7 @@ Your task:
 4. Do **not** ask any follow-up questions.
 5. Keep your response short (4–5 lines) and suitable for WhatsApp.
 6. Always respond in English and if you can't decipher the language, just redirect to the topic after saying "I don't understand what you said."
+7.be kind
 """
 
 # -----------------------------
