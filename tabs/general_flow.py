@@ -45,7 +45,7 @@ Your task:
 # Pre-scripted conversation messages
 # -----------------------------
 msg1 = (
-    "To find solutions to such situations, try to focus on the issue itself and the facts—not on the people involved."
+    "Too find solutions to such situations, try to focus on the issue itself and the facts—not on the people involved."
 )
 
 msg2 = (
